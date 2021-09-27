@@ -2,7 +2,7 @@
 Basic program using ESP32 and DHT11 sensor to simulate "publisher" and "subscriber"
 
 Description:
-The ESP32 sends measured data to the Orion Context Broker. After upadting the data, the ESP32 retrieves the data again.
+The ESP32 sends measured data to the Orion Context Broker. After upadting the data, the ESP32 retrieves the data again. PlaatformIO was used as IDE.
 
 Output serial monitor:
 
